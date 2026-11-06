@@ -288,7 +288,7 @@ Internationally, RoomSketcher and Matterport dominate software and capture outpu
   - Render3DQuick: $299 per floor, 3–4 days. RealSpace 3D: $300–800, 3–6 days. Rush fees are typically +20–50%. — [VizCraft – 3D Rendering Price List 2026](https://vizcraft.ai/blog/posts/3d-rendering-price-list)
   - A general range of about $100–500, with outliers up to $1,500 per floor. — [Coohom – 3D floor plan pricing](https://www.coohom.com/article/3d-floor-plan-pricing); [RITN3D](https://www.ritn3d.com/blog/how-much-does-3d-floor-plan-cost/)
 - **Matterport:** dollhouse plus a colored floor-plan view generated from 3D scan data, with a separate 2D schematic export (black and white only, per an older forum post). Competitors describe its plan accuracy as "approximate", while Matterport claims "99%" accuracy (marketing). — [Matterport blog](https://matterport.com/blog/engage-home-buyers-and-sellers-3d-floor-plan-views); [Realpro / SeeVirtual360 comparison](https://realpro.seevirtual360.com/?p=6750); [WeGetAroundNetwork](https://www.wegetaroundnetwork.com/topic/15791/comparison-matterport-floor-plans-versus-my-visual-listings-floor-plans/)
-- **Effect on inquiries.** ImmobilienScout24 has stated (as reported by the Berliner Mieterverein, 2012, old) that listings with a 3D-Grundriss receive **more inquiries**. — [Berliner Mieterverein MieterMagazin 12/2008](https://www.berliner-mieterverein.de/magazin/online/mm1208/120812b.htm)
+- **Effect on inquiries.** ImmobilienScout24 has stated (as reported by the Berliner Mieterverein; the article is not dated in the search snippet, and the URL path suggests MieterMagazin 12/2008, so it is old) that listings with a 3D-Grundriss receive **more inquiries**. — [Berliner Mieterverein MieterMagazin 12/2008](https://www.berliner-mieterverein.de/magazin/online/mm1208/120812b.htm)
 
 ### Inferences
 - **High-end vs. cheap:**
@@ -300,7 +300,7 @@ Internationally, RoomSketcher and Matterport dominate software and capture outpu
 - No German provider's output resolution in pixels was found. Only the US 2D3D company's 4K figure is sourced.
 - Raumgleiter and other Swiss/Austrian high-end studios were not covered by search results.
 - Current McGrundriss and eStaging prices were not found.
-- I could not verify the age of the ImmoScout24 inquiry claim. The URL path suggests MieterMagazin 12/2008 rather than 2012, and the statistic is old in either case.
+- I could not verify the date of the ImmoScout24 inquiry claim, because the page could not be fetched. The URL path suggests MieterMagazin 12/2008, so the statistic is likely old, and I found no current 2023–2026 equivalent.
 
 ## 9. Quality markers and common mistakes
 
